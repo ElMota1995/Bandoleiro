@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "BIENVENIDO",
+          "buttontext": "<RichColor Color=1,0,0,1>BIENVENIDO</>",
           "title1": "NORMAS DEL SERVIDOR!",
           "text1": " 1 - Queda totalmente prohibido el uso de desventajas del juego (bugs, hacks, exploits...) para raidear y conllevará baneo permanente del servidor.\n\n2 - Máximo una base/cueva por tribu.\n\n3 - Máximo 6 personas por tribu y completamente prohibidas las alianzas.\n\n4 - No se tolerará la falta de educación y respeto bajo ningún concepto.\n\n5 - Prohibido campear zonas de respawn con torretas, fobs, construcciones que obstruyan la zona o demasiado cercanas.\n\n6 - Obligatorio llevar el mismo nombre de superviviente que en este servidor.\n\n7 - Prohibido la petición de ventaja de algún tipo a admins, ya sea la adquisición de algún ítem, de alguna base, de algún dino, algún tipo de información...\n\n8 - Estar en el discord es requisito fundamental y obligatorio.\n\n9 - Terminantemente prohibido hacer 'undermesh\n\n10 - Prohibido nombre de superviviente como: 123, humano, persona, Bob...\n\n11 - Prohibido construir torretas en dinos.\n\n12 - Se permite secuestrar con esposas, siempre un maximo de 15m ( Se hace excepción de la norma si es en medio de raid, un maximo de 30m ).",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
